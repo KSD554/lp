@@ -6,4 +6,4 @@ export const overrideStyle = {
     justifyContent : 'center',
     alignItems : 'center'
 }
-export const socket = io('https://socket-server-e-shop-ppy3.onrender.com')
+export const socket = io('https://lp-bay.vercel.app/')
